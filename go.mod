@@ -1,4 +1,4 @@
-module github.com/GuoFlight/gkeybd
+module github.com/sincebyte/gkeybd
 
 go 1.18
 
